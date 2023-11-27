@@ -1,0 +1,4 @@
+vpc_cidr_block: "10.0.0.0/16"
+ec2_ami: "ami-0233214e13e500f77"
+ec2_instance_type: "t2.micro"
+ec2_key_name: "your-key-pair-name"
